@@ -5,5 +5,5 @@ html, body {
     text-align:center;
 }
 html {
-  background-image:URL("../img/inkcloud.jpg")
+  background-image: url("img/inkcloud.jpg");
 }
