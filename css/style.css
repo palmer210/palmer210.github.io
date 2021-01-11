@@ -6,4 +6,5 @@ html, body {
 }
 html {
   background-image: url("../img/bg.jpg")
+  background-position: center;
 }
